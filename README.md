@@ -55,7 +55,7 @@
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/ProphecyJimpsons/prophecyjimpsons.git
+   git clone https://github.com/ProphecyJimpsonsOrg/demo-repository.git
    cd prophecyjimpsons
    Install Dependencies:
    ```
